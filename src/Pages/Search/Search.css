@@ -1,0 +1,14 @@
+.btn:hover{
+    cursor: pointer;
+}
+.search{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.tabs{
+    display: flex;
+    align-items: center;
+   justify-content: center;
+   justify-items: center;
+}
